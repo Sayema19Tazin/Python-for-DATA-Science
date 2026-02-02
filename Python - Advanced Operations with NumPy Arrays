@@ -1,0 +1,12 @@
+Identify different ways in which arrays can be split up
+Describe how grayscale and colour images can be represented as multi-dimensional arrays
+Perform some basic image manipulation after converting images to arrays
+Create a view into a NumPy array and learn about the relationship between views and their base arrays
+Compare deep copies of arrays with views and know when to use each of them
+Use fancy indexing with arrays using an index mask
+Use fancy indexing to analyse real-world data
+Apply boolean masks to access array elements that fulfil a specific condition
+Use structured arrays in order to store heterogeneous data
+Describe how operations can be performed between arrays of mismatched shapes using broadcasting
+Perform operations between arrays of mismatched shapes by applying the broadcasting rule
+Utilise NumPy to perform multi-dimensional array operations
